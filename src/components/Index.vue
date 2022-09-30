@@ -1,4 +1,5 @@
 <template>
   <button type="reset"></button>
   <h1>朝</h1>
+  <h1>教</h1>
 </template>
