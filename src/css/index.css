@@ -2,3 +2,10 @@ body {
   padding: 0;
 }
 
+.content {
+  width: 800px;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
