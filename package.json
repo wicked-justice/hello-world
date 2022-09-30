@@ -1,0 +1,23 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "I'm wicked-justice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node ./server/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wicked-justice/hello-world.git"
+  },
+  "author": "madongfeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wicked-justice/hello-world/issues"
+  },
+  "homepage": "https://github.com/wicked-justice/hello-world#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
